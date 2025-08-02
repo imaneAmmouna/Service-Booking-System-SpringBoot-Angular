@@ -8,12 +8,13 @@ Grâce à l'intégration harmonieuse de Spring Boot, Angular, MySQL, et Ng Zorro
 
 ## 2. Technologies utilisées
 
-**Frontend :**
+**Frontend (`ServiceBookingSystemClassic`) :**
 
-- Angular (TypeScript, RxJS)  
+
+- Angular (TypeScript)  
 - Ng Zorro UI (bibliothèque de composants UI)  
 
-**Backend :**
+**Backend (`ServiceBookingSystem`) :**
 
 - Spring Boot (Java)  
 - Spring Security (authentification & autorisation)  
